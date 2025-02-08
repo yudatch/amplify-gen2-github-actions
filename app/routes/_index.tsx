@@ -31,7 +31,7 @@ export default function Index() {
 
   return (
     <div className="font-sans p-4">
-      Data from API : {data}
+      Data from API: {data}
     </div>
   );
 }
